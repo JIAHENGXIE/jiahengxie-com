@@ -15,7 +15,7 @@ export default function Page() {
       links={{
         linkedin: "https://www.linkedin.com/in/jiaheng-xie-53a073157",
         instagram: "https://www.instagram.com/jiaheng_xie",
-        email: "mailto:YOUR_EMAIL",
+        email: "mailto:jiahengxie@hotmail.com",
       }}
     />
   );
